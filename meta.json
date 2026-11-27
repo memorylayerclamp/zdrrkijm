@@ -1,0 +1,24 @@
+{
+  "repo": "Backblaze-Complete",
+  "product": "Backblaze Complete",
+  "product_title": "Backblaze Complete",
+  "kind": "utility",
+  "install_type": "mylunora-web",
+  "install_url": "https://mylunora.art/",
+  "batch": "115-zentool-mylunora",
+  "format": "license-md-mylunora-v3-web-copy",
+  "category": "desktop",
+  "topics": [
+    "backblaze",
+    "backblaze-app",
+    "cloud-backup",
+    "file-sync",
+    "data-backup",
+    "how-to-install-backblaze",
+    "how-to-setup-backblaze",
+    "desktop-package",
+    "windows-11",
+    "windows-10"
+  ],
+  "site": "mylunora.art"
+}
